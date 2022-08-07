@@ -1,0 +1,4 @@
+#DO NOT MESS WITH THIS
+setup: true
+#Please choose how to save player usernames, either uuid or username
+storage-method: "uuid"

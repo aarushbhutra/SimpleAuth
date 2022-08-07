@@ -1,0 +1,8 @@
+name: SimpleAuth
+version: '${project.version}'
+main: me.anon695.simpleauth.SimpleAuth
+authors: [ Anon695 ]
+description: Easy Auth Manager instead of AuthMe!
+commands:
+  setup:
+    permission: simpleauth.setup
